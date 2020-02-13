@@ -2,25 +2,25 @@ def third_challenge
   epic_tragedy = {
    :montague => {
       :patriarch => {
-        #your key/value pairs here
+        name: "Dan", age: "53"
         },
       :matriarch => {
-        #your key/value pairs here
+        name: "Anita", age: "37"
         },
       :hero => {
-        #your key/value pairs here
+       name: "Tally", age: "15", status: "alive"
         },
       :hero_friends => []
    }, 
    :capulet => {
       :patriarch => {
-        #your key/value pairs here
+       name: "Dan", age: "53"
         },
       :matriarch => {
-        #your key/value pairs here
+        name: "Anita", age: "37"
         },
       :heroine => {
-        #your key/value pairs here
+        name: "Tally", age: "15", status: "alive"
         },
       :heroine_friends => []
    }
